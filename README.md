@@ -35,3 +35,20 @@ Future medical technologies will be AI-driven. This research explores how state-
 - Zenodo preprint (DOI): https://doi.org/10.5281/zenodo.19125673
 - ResearchSquare preprints: [https://www.researchsquare.com/browse?unified=branislav%20](https://www.researchsquare.com/browse?unified=branislav%20)
 - ResearchGate profile: https://www.researchgate.net/profile/Branislav-Ceperkovic
+
+
+
+## Folder Structure
+- notebooks/: Jupyter notebooks with demos and visualizations
+- scripts/: Python scripts for preprocessing, training, evaluation
+- data/: Sample EEG datasets
+- docs/: Architecture and workflow diagrams
+
+## Quick Start
+1. Clone repository:
+```bash
+git clone https://github.com/branislavceperkovic/Zero-Shot-Motor-Imagery-BCI.git
+
+Install requirements:
+pip install -r requirements.txt
+Open notebooks in notebooks/ and explore demos
