@@ -31,3 +31,7 @@ This repository is part of a broader research agenda combining AI and healthcare
 Future medical technologies will be AI-driven. This research explores how state-of-the-art machine learning can solve real clinical challenges.
 
 📌 **Preprints available via ResearchSquare and Zenodo**
+### Important Links
+- Zenodo preprint (DOI): https://doi.org/10.5281/zenodo.19125673
+- ResearchSquare preprints: [https://www.researchsquare.com/browse?unified=branislav%20](https://www.researchsquare.com/browse?unified=branislav%20)
+- ResearchGate profile: https://www.researchgate.net/profile/Branislav-Ceperkovic
