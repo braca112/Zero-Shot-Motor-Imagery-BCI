@@ -1,5 +1,6 @@
 # Research Project – AI-Driven Brain-Computer Interfaces for Medical Applications
-
+Official research release:
+https://www.prlog.org/13135687-medical-researcher-branislav-ceperkovic-releases-zero-shot-bci-implementation-for-motor-imagery.html
 ## Zero-Shot Motor Imagery Brain–Computer Interface (BCI)
 
 This repository presents research and development work focused on next-generation Brain–Computer Interfaces powered by artificial intelligence and deep learning.
